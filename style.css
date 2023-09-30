@@ -24,12 +24,12 @@ main {
   z-index: 100;
   justify-content: center;
   text-align: center;
-  font-size: 4rem;
+  font-size: 2rem;
   margin-top: 70px;
 }
 
 section {
   min-height: 100vh;
   padding: 20px;
-  font-size: 3.5rem;
+  font-size: 3.0rem;
 }
